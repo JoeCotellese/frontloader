@@ -14,7 +14,12 @@ Front Loader relies on PyYaml so you need to install this first.
 
 ## Usage
 
-TODO: Write usage instructions
+Copy the file config.yml.sample to ~/.frontloader/config.yml
+Edit the config.yml file and add any of the applications you want to load on startup.
+Remove those applications from your Login Items
+
+Customize the PLIST file with the location of Front Loader
+Install the PLIST file. I use  LaunchControl for that.
 
 ## Contributing
 
