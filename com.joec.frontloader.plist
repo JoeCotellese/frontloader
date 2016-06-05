@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disabled</key>
+	<false/>
+	<key>EnvironmentVariables</key>
+	<dict>
+		<key>PATH</key>
+		<string>/Volumes/Users/jcotellese/virtualenvs/frontloader/bin</string>
+		<key>PYTHONPATH</key>
+		<string>/Volumes/Users/jcotellese/virtualenvs/frontloader/lib/python2.7</string>
+	</dict>
+	<key>Label</key>
+	<string>com.joec.frontloader</string>
+	<key>Program</key>
+	<string>/Volumes/Users/jcotellese/git/frontloader/frontloader.py</string>
+	<key>RunAtLoad</key>
+	<true/>
+	<key>StandardErrorPath</key>
+	<string>/tmp/com.joec.frontloader.err</string>
+	<key>StandardOutPath</key>
+	<string>/tmp/com.joec.frontloader.out</string>
+</dict>
+</plist>
